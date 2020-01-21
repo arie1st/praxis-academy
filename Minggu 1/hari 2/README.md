@@ -41,3 +41,42 @@ list juga bisa dibuat constant
 contoh
 var constantList = const [1, 2, 3];
 
+spread operator (...) digunakan untuk memasukan elemen sebuah list ke dalam list yang lain ( penggabungan)
+contoh
+var list1 = [1,2,3];
+var list2 = [0,...list1];
+jika list1 bernilai null, maka untuk menghindari error, tambahkan null-aware spread operator (...?)
+contoh
+var list2 = [0,...?list1];
+
+collection if & collection for dapat digunakan padalist sehingga isi dari list menjadi dinamis
+contoh
+var nav = [
+  'Home',
+  'Furniture',
+  'Plants',
+  if (promoActive) 'Outlet'
+];
+
+contoh 2
+var listOfInts = [1, 2, 3];
+var listOfStrings = [
+  '#0',
+  for (var i in listOfInts) '#$i'
+];
+assert(listOfStrings[1] == '#1');
+
+
+sets adalah sekumpulan data , tidak ada indexnya
+contoh
+var halogens = {'fluorine', 'chlorine', 'bromine', 'iodine', 'astatine'};
+
+untuk membuat sets kosong dapat ditulis sperti berikut
+var names = <String>{};
+
+untuk menambah data ke sets dapat menggunakan method add() atau addAll() sbb:
+var elements = <String>{};
+elements.add('fluorine');
+elements.addAll(halogens);
+
+
