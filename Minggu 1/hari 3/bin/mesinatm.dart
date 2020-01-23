@@ -16,7 +16,7 @@ frontMenu(){
   print('Press [3] Balance Inquiry');
   print('Press [4] Exit');
   print('\n\n What would you like to do?');
-  atm a = new atm();
+  var a = new atm();
   var pilihan = stdin.readLineSync();
     switch (pilihan){
     case '1':
