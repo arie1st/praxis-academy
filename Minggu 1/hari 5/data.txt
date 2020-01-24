@@ -1,0 +1,19 @@
+[{title: 
+								detikNews							, href: https://news.detik.com/?tag_from=wp_firstnav_detikNews}, {title: 
+								detikFinance							, href: https://finance.detik.com/?tag_from=wp_firstnav_detikFinance}, {title: 
+								detikHot							, href: https://hot.detik.com/?tag_from=wp_firstnav_detikHot}, {title: 
+								detikInet							, href: https://inet.detik.com/?tag_from=wp_firstnav_detikInet}, {title: 
+								detikSport							, href: https://sport.detik.com/?tag_from=wp_firstnav_detikSport}, {title: 
+								detikOto							, href: https://oto.detik.com/?tag_from=wp_firstnav_detikOto}, {title: 
+								detikTravel							, href: https://travel.detik.com/?tag_from=wp_firstnav_detikTravel}, {title: 
+								detikFood							, href: https://food.detik.com/?tag_from=wp_firstnav_detikFood}, {title: 
+								detikHealth							, href: https://health.detik.com/?tag_from=wp_firstnav_detikHealth}, {title: 
+								Wolipop							, href: https://wolipop.detik.com/?tag_from=wp_firstnav_Wolipop}, {title: 
+								20Detik							, href: https://20.detik.com/?tag_from=wp_firstnav_20Detik}, {title: 
+								Live TV							, href: https://www.detik.com/transmedia/?tag_from=wp_secnav_Live TV}, {title: 
+								Adsmart							, href: https://adsmart.detik.com/?tag_from=wp_secnav_Adsmart}, {title: 
+								Foto							, href: https://foto.detik.com/?tag_from=wp_secnav_Foto}, {title: 
+								detikX							, href: https://news.detik.com/x/?tag_from=wp_secnav_detikX}, {title: 
+								Sepakbola							, href: https://sport.detik.com/sepakbola/?tag_from=wp_secnav_Sepakbola}, {title: 
+								Pasangmata							, href: https://pasangmata.detik.com/?tag_from=wp_secnav_Pasangmata}, {title: 
+								Hikmah							, href: https://www.detik.com/tag/hikmah/?tag_from=wp_secnav_Hikmah}, {title: News, href: https://news.detik.com}, {title: Finance, href: https://finance.detik.com}, {title: Teknologi, href: https://inet.detik.com}, {title: Entertaiment, href: https://hot.detik.com}, {title: Sport, href: https://sport.detik.com}, {title: Sepakbola, href: https://sport.detik.com/sepakbola}, {title: Otomotif, href: https://oto.detik.com}, {title: Travel, href: https://travel.detik.com}, {title: Food, href: https://food.detik.com}, {title: Health, href: https://health.detik.com}, {title: Wolipop, href: https://wolipop.detik.com}, {title: DetikX, href: https://news.detik.com/x/}, {title: 20Detik, href: https://20.detik.com}, {title: Foto, href: https://foto.detik.com}, {title: Pasang Mata, href: https://pasangmata.detik.com}, {title: Adsmart, href: https://adsmart.detik.com}, {title: Forum, href: http://forum.detik.com}, {title: detikEvent, href: https://event.detik.com}, {title: detikPoint, href: https://poin.detikshop.com/}, {title: Trans Snow World, href: https://www.transsnowworld.com/}, {title: Redaksi, href: https://www.detik.com/redaksi}, {title: Pedoman Media Siber, href: https://www.detik.com/pedoman-media}, {title: Karir, href: https://www.detik.com/karir}, {title: Kotak Pos, href: https://www.detik.com/kotak-pos}, {title: Media Partner, href: https://www.detik.com/media-partner}, {title: Info Iklan, href: https://www.detik.com/info-iklan}, {title: Privacy Policy, href: https://www.detik.com/privacy-policy}, {title: Disclaimer, href: https://www.detik.com/disclaimer}, {title: CNN Indonesia, href: https://www.cnnindonesia.com}, {title: CNBC Indonesia, href: https://www.cnbcindonesia.com}, {title: Haibunda, href: https://www.haibunda.com}, {title: Insertlive, href: https://www.insertlive.com/}, {title: Beautynesia, href: https://beautynesia.id}, {title: Female Daily, href: https://femaledaily.com}]
